@@ -1,0 +1,1 @@
+class Nguoi(val hoTen: String, val tuoi: String,val queQuan: String , val maSo:String)
